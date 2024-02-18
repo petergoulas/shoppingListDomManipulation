@@ -7,3 +7,5 @@ noticed a few bugs when adding multiple items and deleting them
 How to run: download the whole folder. Open the folder. open index.html in your browser. add a few items on your shopping list. (example 1-3). Click on delete to delete the items you have successfully bought / placed in your basket. The items 
 
 should dissappear from your shopping list.
+
+Update: Now you can also run it online: https://petergoulas.github.io/shoppingListDomManipulation/
